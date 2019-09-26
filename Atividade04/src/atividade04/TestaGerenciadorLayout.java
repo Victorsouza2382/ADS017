@@ -40,7 +40,7 @@ public class TestaGerenciadorLayout {
         
         JFrame janela = new JFrame();
         janela.setSize(640, 480);
-        janela.setTitle("Meu layout");
+        janela.setTitle("Layout Victor");
         janela.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         janela.setVisible(true);
         

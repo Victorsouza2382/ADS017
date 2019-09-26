@@ -26,7 +26,7 @@ public class TestaJanelaBorderLayout {
         janela.add(painel4, BorderLayout.WEST);
         janela.add(painel5, BorderLayout.CENTER);
         janela.setSize(640, 480);
-        janela.setTitle("Janela BorderLayout");
+        janela.setTitle("Janela Borda");
         janela.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         janela.setVisible(true);
     }

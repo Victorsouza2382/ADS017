@@ -28,7 +28,7 @@ public class TestaJanelaFlowLayout {
         janela.add(painel3);
         janela.add(painel4);
         janela.setSize(640, 480);
-        janela.setTitle("Janela FlowLayout");
+        janela.setTitle("Janela");
         janela.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         janela.setVisible(true);
     }

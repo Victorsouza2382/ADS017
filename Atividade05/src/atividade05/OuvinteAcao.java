@@ -7,7 +7,7 @@ public class OuvinteAcao implements ActionListener{
 
     @Override
     public void actionPerformed(ActionEvent e) {
-        System.out.println("Uma ação foi executada");
+        System.out.println("ação executada");
     }
     
 }

@@ -7,7 +7,7 @@ public class OuvinteAcaoGeral implements ActionListener{
 
     @Override
     public void actionPerformed(ActionEvent e) {
-        System.out.println("Acionou o comando " + e.getActionCommand() + "do componente " + e.getSource().getClass());
+        System.out.println("Acionou comando " + e.getActionCommand() + "do componente " + e.getSource().getClass());
     }
     
 }

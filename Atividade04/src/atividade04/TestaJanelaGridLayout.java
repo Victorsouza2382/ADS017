@@ -24,7 +24,7 @@ public class TestaJanelaGridLayout {
         JFrame janela = new JFrame();
         janela.setLayout(leioute);
         janela.setSize(640, 480);
-        janela.setTitle("Janela GridLayout");
+        janela.setTitle("Janela1");
         janela.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         janela.setVisible(true);   
         janela.add(painel1);
