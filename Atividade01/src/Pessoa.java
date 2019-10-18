@@ -1,9 +1,8 @@
-
-public class Pessoa {
-
+public abstract class Pessoa {
+    
     public static final int SEXO_MASCULINO = 1;
     public static final int SEXO_FEMININO = 2;
-
+    
     private String nome;
     private int sexo;
 
@@ -19,5 +18,6 @@ public class Pessoa {
     public int getSexo() {
         return sexo;
     }
-
+    
+    
 }

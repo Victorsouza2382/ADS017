@@ -1,6 +1,5 @@
-
-public class Gerente extends Funcionario {
-
+public class Gerente extends Funcionario{
+    
     private double bonus;
 
     public Gerente(double bonus, int matricula, String nome, int sexo, double salario) {
@@ -10,8 +9,9 @@ public class Gerente extends Funcionario {
 
     @Override
     public double getSalario() {
-        return super.getSalario() + bonus; 
+        return super.getSalario() + bonus; //To change body of generated methods, choose Tools | Templates.
     }
 
+    
     
 }
